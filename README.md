@@ -1,3 +1,3 @@
 # C-exercises-projects
 
-This practice codes I worked through the school.
+These are the practice codes I wrote through college classes.
